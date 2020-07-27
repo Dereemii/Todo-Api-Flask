@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ee721f9b-4ec6-4fe1-a199-5552f56acdb0.ws-us02.gitpod.io",
+    "address": "https://e747c019-a887-4fa2-9c96-1d6eaf57cf36.ws-us02.gitpod.io",
     "editor": "gitpod",
     "outputPath": "./.breathecode/dist",
     "publicPath": "/preview",
@@ -58,7 +58,7 @@
         {
             "slug": "02-pipenv-installation",
             "title": "02-pipenv-installation",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/02-pipenv-installation",
             "translations": [
                 "us"
@@ -68,7 +68,7 @@
         {
             "slug": "02.1-flask-installation",
             "title": "02.1-flask-installation",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/02.1-flask-installation",
             "translations": [
                 "us"
@@ -78,7 +78,7 @@
         {
             "slug": "03-first-flask-app",
             "title": "03-first-flask-app",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03-first-flask-app",
             "translations": [
                 "us"
@@ -88,7 +88,7 @@
         {
             "slug": "03.1-app-run",
             "title": "03.1-app-run",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03.1-app-run",
             "translations": [
                 "us"
@@ -108,7 +108,7 @@
         {
             "slug": "03.3-your-first-route",
             "title": "03.3-your-first-route",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/03.3-your-first-route",
             "translations": [
                 "us"
@@ -128,7 +128,7 @@
         {
             "slug": "05-returning-json",
             "title": "05-returning-json",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/05-returning-json",
             "translations": [
                 "us"
@@ -138,7 +138,7 @@
         {
             "slug": "06-check-for-live",
             "title": "06-check-for-live",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/06-check-for-live",
             "translations": [
                 "us"
@@ -148,7 +148,7 @@
         {
             "slug": "07-post_todo",
             "title": "07-post_todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/07-post_todo",
             "translations": [
                 "us"
@@ -158,7 +158,7 @@
         {
             "slug": "07.1-test-post-todo",
             "title": "07.1-test-post-todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/07.1-test-post-todo",
             "translations": [
                 "us"
@@ -168,7 +168,7 @@
         {
             "slug": "07.2-finish-post-todo",
             "title": "07.2-finish-post-todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/07.2-finish-post-todo",
             "translations": [
                 "us"
@@ -178,7 +178,7 @@
         {
             "slug": "08-delete-todo",
             "title": "08-delete-todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08-delete-todo",
             "translations": [
                 "us"
@@ -188,7 +188,7 @@
         {
             "slug": "08.1-delete-live-test",
             "title": "08.1-delete-live-test",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08.1-delete-live-test",
             "translations": [
                 "us"
@@ -198,7 +198,7 @@
         {
             "slug": "08.2-finish-todos",
             "title": "08.2-finish-todos",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08.2-finish-todos",
             "translations": [
                 "us"
